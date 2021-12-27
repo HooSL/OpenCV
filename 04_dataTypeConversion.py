@@ -11,7 +11,7 @@ source = source * scalingFactor
 
 print(source)
 
-#반대로 실수로 외어있는 것을 다이 0~255로 만드는 방법
+#반대로 실수로 외어있는 것을 다시 0~255로 만드는 방법
 #즉 다시 이미지 배열로 만드는 방법
 
 source = source * 255
