@@ -21,13 +21,13 @@ print(array_2d)
 print(array_2d[1,1])
 
 # 이미지 파일을 읽어오는 방법
-img = cv2.imread('data/image/sample.jpg')
+img = cv2.imread('data/images/sample.jpg')
 print(img)
 print(img.shape)
 print(img.ndim)
 
 # 이미지 파일을 그레이스케일로 읽어오는 방법
-img2 = cv2.imread('data/image/sample.jpg',0)
+img2 = cv2.imread('data/images/sample.jpg',0)
 print(img2)
 print(img2.shape)
 print(img2.ndim)
