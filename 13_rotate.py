@@ -1,6 +1,6 @@
 import cv2
 
-image = cv2.imread('data/images/book2.jpg')
+image = cv2.imread('data/images/sample.jpg')
 
 print(image.shape)
 
